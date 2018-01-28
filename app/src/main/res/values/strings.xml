@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Bommers</string>
+
+    <string name="internet_error">Failed to connect to internet</string>
+    <string name="try_again">Try Again !</string>
+    <string name="unknown_error">Something went wrong !!</string>
+
+    <string name="transition_name">myTransition</string>
+    <string name="action_list">list</string>
+
+</resources>
